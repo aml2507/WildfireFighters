@@ -1,5 +1,5 @@
 # WildfireFighters
-Software creado para combatientes de incendios forestales desarrollado en  Vb net, mySql y Arduino con lector de tarjeta RFID
+Software built for wild fire fighters developed in  Vb net, mySql and Arduino with RFID card reader. This was my university thesis.
 https://www.youtube.com/watch?v=4qswxDh1oro&ab_channel=AntonellaLesta
 
 
